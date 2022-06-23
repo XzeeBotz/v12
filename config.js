@@ -9,7 +9,7 @@ global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.6281381685954
+global.ownernumber = process.env.NOWNER
 global.owner = [
   ['0'],
   ['0'],
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.Mau Nyolong?
-global.author = process.env.BY MRCLNOTWIBU 
+global.packname = process.env.PACKNAME
+global.author = process.env.AUTRHOR 
 
 global.multiplier = 69 // The higher, The harder levelup
 
